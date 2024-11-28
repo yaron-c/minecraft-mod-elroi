@@ -1,0 +1,16 @@
+
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "minecraft:gold_ingot"
+      },
+      {
+        "item": "minecraft:stick"
+      }
+    ],
+    "result": {
+      "item": "mod_legendery:magic_wand",
+      "count": 1
+    }
+  }

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    " M ",
+    " B "
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:bread"
+    },
+    "M": {
+      "item": "minecraft:mushroom"
+    }
+  },
+  "result": {
+    "item": "examplemod:pizza",
+    "count": 1
+  }
+}
